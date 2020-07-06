@@ -6,4 +6,9 @@ To install these modules open your terminal then type the following code:
 -> pip install pywin32
 -> pip install pypiwin32
 
+To run this file when device startups, open notepad then type this following code:
+start /min python "your script/program file path"
+Then save it as name.bat then save this at startup folder.
+Note: you can access startup folder by this run command: shell:startup.
+
 Enjoy!!!
