@@ -11,4 +11,4 @@ start /min python "your script/program file path"
 Then save it as name.bat then save this at startup folder.
 Note: you can access startup folder by this run command: shell:startup.
 
-Enjoy!!!
+Then Finally Restart your device and Enjoy!!!
